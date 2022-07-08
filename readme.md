@@ -1,10 +1,4 @@
 # Cześć!
 ## Witajcie, to jest H2. 
-To jest tekst **pogrubiony**.
+To jest test **SSH**.
 
-* Item 1
-* Item 2
-    * Item 2a
-    * Item 2b
-
-    
